@@ -1,0 +1,64 @@
+Textos gerais: ter em atenção que os regentes mudam, bem como a matéria lecionada. Fiz questão de colocar tudo e pdf, o que levou a algumas desformatações raras
+
+
+Álgebra
+PF
+TMD
+
+EPTN
+Lógica
+
+Algoritmos
+Arquitetura
+EA
+FCD
+
+Física
+IPM
+IO
+
+CP
+CC
+DSS
+IA
+SD
+
+ADI
+CG
+PL
+SSI
+
+Meter texto de diferenciação de pt1 e pt2 em POO.
+
+Meter texto de diferenciação de PT e EN em SO.
+Não esquecer de dizer que o regente mudou então a tipologia dos testes é diferentes
+
+Meter texto de diferenciação de LCC e LEI em BD.
+
+Meter texto de diferenciação de Cálculo que regente mudou
+Meter texto em como apenas, garantidamente, as resoluções dos testes de 23/24 são oficiais feitas pela Elfrida
+
+Meter texto em SC de apenas ter as soluções até à cache em SC e, ocasionalmente, poderão estar erradas
+
+Texto de desculpa de desformatação no pdf do teste 2 de 2021_2022
+Não sei se as resoluções são oficiais ou não, mas, tanto quanto sei, estão corretas as de 2021-2022 e 2019-2020, as de 2022-2023 e 2023-2024 não sei
+Estão marcadas as oficiais como oficiais e as que não sei, não-oficiais
+Créditos das não-oficiais para o https://www.mathcha.io/editor/3519vFN9t7xUVWgJprcdy1vnguy0OGjQixJl3W2
+https://discord.com/channels/418433020719136768/489819591044890624/1300420366149091408
+Créditos de alguns dos ficheiros: https://github.com/David81820
+
+FEITO:
+
+SO
+POO
+BD
+MNONL
+RC
+PI
+Cálculo
+
+NÃO VALE A PENA:
+LI1
+LI2
+LI3
+LI4

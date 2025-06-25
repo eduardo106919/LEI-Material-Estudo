@@ -1,7 +1,5 @@
 Textos gerais: ter em atenção que os regentes mudam, bem como a matéria lecionada. Fiz questão de colocar tudo e pdf, o que levou a algumas desformatações raras
 
-
-Álgebra
 PF
 TMD
 
@@ -43,15 +41,13 @@ SO
 POO
 BD
 MNONL
-RC -------------- ver README Exercícios + Resolução
 PI
 Cálculo
 
-NÃO VALE A PENA:
-LI1
-LI2
-LI3
-LI4
-
-
+ideias:
 diminuir tamanho dos pdfs em Álgebra ?
+
+FEITO FEITO : 
+
+Álgebra
+Redes

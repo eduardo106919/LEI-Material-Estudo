@@ -14,19 +14,9 @@ EA
 FCD
 
 Física
-IPM
 IO
 
-CP
-CC
-DSS
-IA
-SD
 
-ADI
-CG
-PL
-SSI
 
 Meter texto de diferenciação de pt1 e pt2 em POO.
 

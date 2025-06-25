@@ -1,11 +1,13 @@
-# Exercícios
+# Exercícios + Resolução
 
-## [Ficha 1](Subnetting_Subnetting_ficha1.pdf)
+## Exercícios
 
-## [Ficha 2](Subnetting_Routing_ficha2.pdf)
+### [Ficha 1 - Subnetting](Subnetting_Subnetting_ficha1.pdf)
 
-# Resoluções
+### [Ficha 2 - Routing](Subnetting_Routing_ficha2.pdf)
 
-## [Exercicio%201%20e%202%20da%20Ficha%201](Subnetting_ficha1_exerc1_2_sol.pdf)
+## Resoluções
 
-## [Exercicio%203%20da%20Ficha%201](Subnetting_ficha1_exerc3_sol.pdf)
+### [Exercícios 1 e 2 da Ficha 1](Subnetting_ficha1_exerc1_2_sol.pdf)
+
+### [Exercício 3 da Ficha 1](Subnetting_ficha1_exerc3_sol.pdf)

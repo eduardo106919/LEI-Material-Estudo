@@ -52,3 +52,6 @@ LI1
 LI2
 LI3
 LI4
+
+
+diminuir tamanho dos pdfs em Álgebra ?

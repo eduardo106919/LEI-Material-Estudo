@@ -8,6 +8,11 @@ Esta coleção não deve ser usada como substituição das aulas e material disp
 ## Organização dos Conteúdos
 A equipa de desenvolvimento achou por bem não separar as cadeiras por anos já que o curso poderá ser reestruturado no futuro, o que poderá fazer com que as cadeiras mudem de semestre ou até que sejam removidas.
 
+## Créditos
+
+
+
+
 ## Cadeiras
 
 ### A

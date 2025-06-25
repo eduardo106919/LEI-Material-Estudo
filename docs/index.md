@@ -11,43 +11,47 @@ A equipa de desenvolvimento achou por bem não separar as cadeiras por anos já 
 ## Cadeiras
 
 ### A
-[Álgebra](Álgebra/README.md)
-<br>
+
+[Álgebra Linear](Álgebra/README.md)
 
 [Algoritmos e Complexidade](Algoritmos/README.md)
-<br>
 
-[Análise](Análise/README.md)
-<br>
+[Análise Matemática](Análise/README.md)
+
+[Arquitetura de Computadores](Arquitetura/README.md)
+
 
 ### B
 
 [Bases de Dados](BD/README.md)
-<br>
+
 
 ### C
 
 [Cálculo](Cálculo/README.md)
-<br>
+
 
 ### E
 
-[Estatítica Aplicada]()
+[Elementos de Probabilidades e Teoria de Números](EPTN/README.md)
 
-[Elementos de Probabilidades e Teoria de Números]()
+
+[Estatítica Aplicada](EA/README.md)
 
 
 ### F
 
-[Fundamentos de Comunicação de Dados]()
+[Física Moderna](FM/README.md)
+
+[Fundamentos de Comunicação de Dados](FCD/README.md)
 
 ### I
 
-[Investigação Operacional]()
+[Investigação Operacional](IO/README.md)
 
 ### L
 
-[Lógica]()
+[Lógica](Lógica/README.md)
 
 ### M
 
@@ -55,8 +59,11 @@ A equipa de desenvolvimento achou por bem não separar as cadeiras por anos já 
 
 ### P
 
+[Programação Funcional](PF/README.md)
+
+
 [Programação Imperativa](PI/README.md)
-<br>
+
 
 [Programação Orientada aos Objetos](POO/README.md)
 
@@ -68,10 +75,9 @@ A equipa de desenvolvimento achou por bem não separar as cadeiras por anos já 
 ### S
 
 [Sistemas de Computação](SC/README.md)
-<br>
+
 
 [Sistemas Operativos](SO/README.md)
-<br>
 
 ### T
 

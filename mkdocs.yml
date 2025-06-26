@@ -1,13 +1,15 @@
 site_name: Material de LEI
+site_url: https://darteescar.github.io/LEI-Material-Estudo/
+
 theme:
   name: material
   palette:
     primary: deep purple
     accent: purple
     scheme: slate
-    language: pt
-    logo: assets/livro.png
-    favicon: assets/livro.png
+  language: pt
+  logo: assets/livro.png
+  favicon: assets/livro.png
 
 nav:
   - Início: index.md

@@ -50,4 +50,5 @@ diminuir tamanho dos pdfs em Álgebra ?
 FEITO FEITO : 
 
 Álgebra
+Algoritmos
 Redes

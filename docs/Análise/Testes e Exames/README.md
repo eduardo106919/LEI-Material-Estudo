@@ -8,7 +8,7 @@
 ## 2020/2021
 
 * [Teste 1](2020_2021/teste_1.pdf) - [Resolução](2020_2021/teste_1_sol.pdf)
-* [Teste 2](2020_2021/teste_2.pdf) - [Resolução](2020_2021/teste_2_sol.pdf)
+* [Teste 2](2020_2021/teste_2.pdf) - [Resolução (falta o primeiro exercício)](2020_2021/teste_2_sol.pdf)
 
 ## 2022/2023
 

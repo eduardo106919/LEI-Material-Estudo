@@ -51,4 +51,5 @@ FEITO FEITO :
 
 Álgebra
 Algoritmos
+Análise
 Redes

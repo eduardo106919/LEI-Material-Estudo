@@ -52,4 +52,5 @@ FEITO FEITO :
 Álgebra
 Algoritmos
 Análise
+Arquitetura
 Redes

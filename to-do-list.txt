@@ -39,7 +39,6 @@ FEITO:
 
 SO
 POO
-BD
 MNONL
 PI
 Cálculo
@@ -53,4 +52,5 @@ FEITO FEITO :
 Algoritmos
 Análise
 Arquitetura
+BD
 Redes

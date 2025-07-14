@@ -24,7 +24,7 @@ Pipelining, Multiple Issue, Dependências de dados e controlo, Grafos de depend�
 ### [PDF - Processamento Vetorial](07-ProcessamentoVectorial.pdf) <br> [PPTX - Processamento Vetorial](07-ProcessamentoVectorial.pptx)
 Desempenho, Instruções AVX (Notação, Transferência de Dados, Operações FP), Compiler Intrinsics, Auto-vectorização e Bloqueadores da Auto-vectorização (dados não contíguos, dados contíguos, stride, uncountable loops, condições, funções e dependências)
 
-### [PDF - Arquitecturas MultiCore](08-ArquitecturasMultiCore.pdf) <br> [PPTX - Arquitecturas MultiCore](08-ArquitecturasMultiCore.pptx)
+### [PDF - Arquitecturas MultiCore](08-ArquitecturasMulticore.pdf) <br> [PPTX - Arquitecturas MultiCore](08-ArquitecturasMulticore.pptx)
 Evolução MicroProcessadores, Thread Level Parallelism, Simultaneous Multi Threading, Computador Single Core, Single Core Chip, Multi Core Chip e Multi Core
 
 ### [PDF - OpenMP](09-OpenMP.pdf) <br> [PPTX - OpenMP](09-OpenMP.pptx)

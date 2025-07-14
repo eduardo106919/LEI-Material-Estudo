@@ -1,6 +1,7 @@
 ## Equipa de Desenvolvimento
 
 * [darteescar](https://github.com/darteescar)
+* [SimaoOliveira05](https://github.com/SimaoOliveira05)
 
 ## ⚠️ Aviso
 -Esta coleção não deve ser usada como substituição das aulas e material disponibilizado pelos professores já que tanto a matéria, como os regentes das várias UC's presentes no curso de LEI poderão mudar. 

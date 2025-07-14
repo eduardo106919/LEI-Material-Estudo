@@ -13,7 +13,7 @@ Função Densidade de Probabilidade <br>
 Propriedades da Função Densidade de Probabilidade
 
 
-## [Esperança Matemática](parte03_ValorEsperado.pdf)
+## [Esperança Matemática](parte03_%20ValorEsperado.pdf)
 Esperança Matemática <br>
 Valor Esperado <br>
 Propriedades do Valor Esperado <br>

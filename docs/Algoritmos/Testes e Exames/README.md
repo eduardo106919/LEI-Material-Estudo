@@ -5,7 +5,7 @@
 ### 2019/2020
 * [Teste 1](2019_2020/teste_1.pdf) - [Resolução](2019_2020/teste_1_sol.pdf)
 * [Teste 2](2019_2020/teste_1.pdf) - [Resolução](2019_2020/teste_2_sol.pdf)
-* [Exame Recurso](recurso.pdf)
+* [Exame Recurso](2019_2020/recurso.pdf)
 
 ### 2021/2022
 * [Teste 1](2021_2022/teste_1.pdf) - [Resolução](2021_2022/teste_1_sol.pdf)
@@ -24,4 +24,4 @@
 ### 2024/2025
 * [Teste 1](2024_2025/teste_1.pdf)
 * [Teste 2](2024_2025/teste_2.pdf)
-* [Exame Recurso](2024_2025recurso.pdf)
+* [Exame Recurso](2024_2025/recurso.pdf)

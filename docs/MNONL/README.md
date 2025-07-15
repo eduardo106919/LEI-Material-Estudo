@@ -1,7 +1,7 @@
 # Métodos Numéricos e Otimização Não Linear
 
-## [Material Pedagógico](Material%20Pedagógico/README.md)
-Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+## [Métodos Numéricos](MN/README.md)
+Material relavante à matéria de Métodos Numéricos
 
-## [Testes e Exames](Testes%20e%20Exames/README.md)
-Uma coleção bastante pequena de enunciados de anos passados
+## [Otimização Não Linear](ONL/README.md)
+Material relavante à matéria de Otimização Não Linear

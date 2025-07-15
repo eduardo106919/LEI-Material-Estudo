@@ -1,7 +1,10 @@
 # Elementos de Probabilidades e Teoria de Números
 
-## [Material Pedagógico](Material%20Pedagógico/README.md)
-Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+## [Teoria de Números](TN/README.md)
+Conjunto de material sobre a parte de Teoria de Números da UC
 
-## [Testes e Exames](Testes%20e%20Exames/README.md)
-Uma coleção bastante pequena de enunciados de anos passados
+## [Elementos de Probabilidades](EP/README.md)
+Conjunto de material sobre a parte de Elementos de Probabilidades da UC
+
+## [Padlet da Professora Cláudia](https://padlet.com/Claudia_Mendes_Araujo/eptn-3bzld5wssbt7uai5)
+Padlet criado pela professora Cláudia onde podem encontrar exercícios resolvidos e testes

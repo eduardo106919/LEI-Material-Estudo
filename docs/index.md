@@ -4,12 +4,11 @@
 * [SimaoOliveira05](https://github.com/SimaoOliveira05)
 
 ## ⚠️ Aviso
--Esta coleção não deve ser usada como substituição das aulas e material disponibilizado pelos professores já que tanto a matéria, como os regentes das várias UC's presentes no curso de LEI poderão mudar. 
+- Esta coleção não deve ser usada como substituição das aulas e material disponibilizado pelos professores já que tanto a matéria, como os regentes das várias UC's presentes no curso de LEI poderão mudar. 
 
-<br>
--Deve-se ter em conta que o material pedagógico presente poderá estar desatualizado ou poderá não ir ao encontro com os objetivos definidos pelos professores.
 
-<br>
+- Deve-se ter em conta que o material pedagógico presente poderá estar desatualizado ou poderá não ir ao encontro com os objetivos definidos pelos professores.
+
 
 - Todas as resoluções fornecidas foram enviadas pelas equipas docentes dos anos correspondentes. Caso esteja escrito explicitamente que 'não é oficial' significa que foi fornecida por um colega
 

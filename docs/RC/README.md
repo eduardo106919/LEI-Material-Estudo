@@ -1,6 +1,6 @@
 # Redes de Computadores
 
-## [Exercícios + Resolução](Exercícios%20+%20Resolução/README.md)
+## [Exercícios + Resolução](Exercícios%20e%20Resolução/README.md)
 Apenas tem parte da resolução do primeiro exercício
 
 ## [Material Pedagógico](Material%20Pedagógico/README.md)

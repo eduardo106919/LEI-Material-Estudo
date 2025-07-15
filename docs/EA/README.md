@@ -4,4 +4,7 @@
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
-Uma coleção bastante pequena de enunciados de anos passados
+Uma coleção bastante pequena de enunciados e algumas resoluções de anos passados
+
+## [Exercícios e Soluções](Exercícios%20e%20Soluções/README.md)
+Conjunto de exercícios (e as respetivas soluções) usados nas aulas TP da UC no ano letivo 2024/2025

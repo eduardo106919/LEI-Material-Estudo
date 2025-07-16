@@ -1,7 +1,6 @@
 Textos gerais: ter em atenção que os regentes mudam, bem como a matéria lecionada. Fiz questão de colocar tudo e pdf, o que levou a algumas desformatações raras
 
 PF
-TMD
 
 EPTN
 Lógica
@@ -14,7 +13,9 @@ FCD
 Física
 IO
 
+Talvez meter vídeos sobre matéria que achemos relevantes
 
+Meter projetos e perguntar a outro pessoal se podemos meter os deles
 
 Meter texto de diferenciação de pt1 e pt2 em POO.
 
@@ -42,6 +43,7 @@ POO
 MNONL
 PI
 Cálculo
+TMD
 
 ideias:
 diminuir tamanho dos pdfs em Álgebra ?

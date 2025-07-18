@@ -1,5 +1,5 @@
 # Exercícios + Soluções
-Tem em atenção que este material é do ano letivo 2023/2024
+É de ter em atenção que este material é do ano letivo 2023/2024
 
 ### [Ficha 1](Fichas/Analise_Folha1.pdf) - [Resolução](Soluções/Folha1_sol.pdf)
 ### [Ficha 2](Fichas/Analise_Folha2.pdf) - [Resolução](Soluções/Folha2_sol.pdf)

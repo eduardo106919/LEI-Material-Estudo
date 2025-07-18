@@ -1,5 +1,4 @@
 # Lógica
-Apenas o programa de 2021/22 coincide com o atual programa; os testes dos anos anteriores podem não cobrir parte da matéria
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Uma coleção bastante grande de enunciados e resoluções de anos passados

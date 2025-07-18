@@ -1,4 +1,5 @@
 # Testes e Exames
+Apenas o programa de 2021/22 coincide com o atual programa; os testes dos anos anteriores podem não cobrir parte da matéria
 
 ## Enunciados e Resoluções
 

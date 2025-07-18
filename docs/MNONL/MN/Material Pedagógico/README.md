@@ -1,12 +1,12 @@
 # Material Pedagógico
 Conjunto de slides usados nas aulas téoricas da UC no ano letivo 2024/2025
 
-## [Erros](Erros.pdf)
+## [Erros](1_Erros.pdf)
 Erros de arredondamento <br>
 Erros inerentes aos dados <br>
 Erros de truncatura
 
-## [Integração Numérica](INTEGRA.pdf)
+## [Integração Numérica](2_INTEGRA.pdf)
 Objetivo da integração numérica <br>
 Integração numérica <br>
 Fórmulas (simples) de Newton-Cotes <br>
@@ -17,7 +17,7 @@ Fórmulas compostas do trapézio, de Simpson e dos três oitavos <br>
 Aplicação das fórmulas de integração a intervalos com amplitudes não constantes <br>
 Exercícios
 
-## [Interpolação Polinomial](INTERP.pdf)
+## [Interpolação Polinomial](3_INTERP.pdf)
 Objetivo da aproximação de funções <br>
 Erro da aproxima ção <br>
 Aproximação de funções <br>
@@ -33,7 +33,7 @@ Exemplos de Polinómios <br>
 Erro de truncatura <br>
 Exercícios
 
-## [Sistemas de Equações Não Lineares](SENL.pdf)
+## [Sistemas de Equações Não Lineares](4_SENL.pdf)
 Método de Newton <br>
 Reformulação do método de Newton para uma equação não linear <br>
 Exemplos de sistemas <br>
@@ -46,7 +46,7 @@ Algoritmo do m ́etodo de Newton para sistemas de equações não lineares <br>
 Condições de convergência do método de Newton <br>
 Exercícios
 
-## [Equações Não Lineares](ENL.pdf)
+## [Equações Não Lineares](5_ENL.pdf)
 Exemplos de equações não lineares <br>
 Métodos iterativos <br>
 Exemplo de localização <br>
@@ -62,7 +62,7 @@ Situação de divergência <br>
 Método da secante vs método de Newton <br>
 Exercícios
 
-## [Sistemas de Equações Lineares](SEL.pdf)
+## [Sistemas de Equações Lineares](6_SEL.pdf)
 Sistemas de Equações Lineares <br>
 Existência e unicidade da solução <br>
 Exemplos <br>
@@ -72,7 +72,7 @@ Cálculo do determinante de uma matriz A <br>
 Cálculo da inversa de uma matriz A <br>
 Exercícios
 
-## [Mínimos Quadrados](MIN_QUAD.pdf)
+## [Mínimos Quadrados](7_MIN_QUAD.pdf)
 Objetivo <br>
 Tipos de modelos <br>
 Modelo linear e polinomial <br>
@@ -85,7 +85,7 @@ O sistema das equações normais <br>
 Passos para calcular o modelo linear não polinomial <br>
 Exercícios
 
-## [Splines](SPLINE.pdf)
+## [Splines](8_SPLINE.pdf)
 Interpolação segmentada <br>
 ’Spline’ linear, s1(x) <br>
 Limite superior do erro de truncatura com a aproximação ’spline’ linear s1 <br>

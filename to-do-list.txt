@@ -59,7 +59,7 @@ Cálculo
 EPTN
 EA
 -------------FM
--------------FCD
+FCD
 -------------IO
 -------------Lógica
 MNONL

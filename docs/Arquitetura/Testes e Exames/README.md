@@ -1,5 +1,5 @@
 # Testes e Exames
-É de notar que na maioria destes testes modelo pouco ou nada muda. A resolução do teste 1 de 2023/2024 foi enviada por um colega e não consigo confirmar se foi ou não feita por um docente.
+É de notar que na maioria destes testes modelo pouco ou nada muda. A resolução do teste 1 de 2023/2024 foi enviada por um colega e não foi possível confirmar se foi ou não feita por um docente.
 
 ## Enunciados e Resoluções
 

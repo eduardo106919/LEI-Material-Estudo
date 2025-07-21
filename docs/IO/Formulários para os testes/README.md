@@ -1,6 +1,6 @@
 # Formulários para os Testes de Investigação Operacional
 
-Nesta pasta encontras diferentes formulários elaborados por alunos para levar para os testes de IO
+Diferentes formulários elaborados por alunos para levar para os testes de IO
 
 ## Formulários disponíveis
 

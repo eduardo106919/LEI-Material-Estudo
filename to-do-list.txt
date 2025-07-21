@@ -64,7 +64,7 @@ FCD
 -------------Lógica
 MNONL
 -------------PF
--------------PI
+PI
 POO
 Redes
 SC

@@ -68,5 +68,5 @@ MNONL
 POO
 Redes
 -------------SC
--------------SO
+SO
 TMD

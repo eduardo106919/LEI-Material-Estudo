@@ -1,5 +1,8 @@
 # Testes e Exames
+
 É de notar que nos testes de 2023/2024 e nos exames de recurso de 2024/2025 as versões A e B diferem maioritariamente nas perguntas de resposta curta. As restantes mudam apenas os valores dos vetores e das matrizes.
+
+---
 
 ## Enunciados e Resoluções
 
@@ -18,3 +21,5 @@
 
 * [Exame Recurso A 2024/2025](recurso_A_2024_2025.pdf) - [Resolução](recurso_A_2024_2025_sol.pdf)
 * [Exame Recurso B 2024/2025](recurso_B_2024_2025.pdf) - [Resolução](recurso_B_2024_2025_sol.pdf)
+
+---

@@ -1,5 +1,7 @@
 # Material Pedagógico
 
+---
+
 ## [Matrizes](Capitulo_1_Matriz.pdf)
 Conceitos básicos, operações, matrizes invertíveis e aplicações
 
@@ -17,3 +19,5 @@ Definições básicas, matriz de uma transformação linear, Núcleo, imagem e o
 
 ## [Valores e Vetores Próprios](Capitulo_6_Valores_e_Vetores_Próprios.pdf)
 Definições básicas, determinação de valores e vetores próprios e caraterização de matrizes invertíveis
+
+---

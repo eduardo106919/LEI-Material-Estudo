@@ -1,6 +1,6 @@
 # Formulários para os Testes de Investigação Operacional
 
-Nesta pasta encontras diferentes formulários elaborados por alunos para levar para os testes de IO
+Diferentes formulários elaborados por alunos para levar para os testes de IO
 
 ## Formulários disponíveis
 
@@ -8,5 +8,3 @@ Nesta pasta encontras diferentes formulários elaborados por alunos para levar p
 - [Cabula 2 - DOCX](IOformulario.docx)
 - [Cabula 3 - PDF](formularioIO.pdf)
 - [Cabula 4 - PDF](cabula.pdf)
-
-

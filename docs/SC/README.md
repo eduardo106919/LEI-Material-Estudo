@@ -5,3 +5,6 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Uma coleção bastante pequena de enunciados de anos passados
+
+### [Soluções do Livro](soluções_livro.pdf)
+Soluções dos exercícios do [livro](https://ebooks.uminho.pt/index.php/uminho/catalog/book/93) do professor João M. Fernandes

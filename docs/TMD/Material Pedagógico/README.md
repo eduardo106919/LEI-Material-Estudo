@@ -1,13 +1,24 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
 ## [Noções básicas de lógica](Cap1.pdf)
-Pequena introdução, cálculo proposicional clássico, cálculo de predicados e métodos de prova
+Pequena introdução <br> 
+Cálculo proposicional clássico <br> 
+Cálculo de predicados <br> 
+Métodos de prova
 
 ## [Indução dos naturais](Cap2.pdf)
-Princípio de indução simples e completa
+Princípio de indução simples <br> 
+Princípio de indução completa
 
 ## [Teoria elementar de conjuntos](Cap3.pdf)
-Conceitos básicas de conjuntos, subconjuntos, operações com conjuntos e famílias de conjuntos
+Conceitos básicas de conjuntos <br> 
+Subconjuntos <br> 
+Operações com conjuntos <br> 
+Famílias de conjuntos
 
 ## [Relações binárias](Cap4.pdf)
-Propriedades de relações binárias, relações de equivalência, relaçoes de ordem parcial e diagrama de Hasse
+Propriedades de relações binárias <br> 
+Relações de equivalência <br> 
+Relações de ordem parcial <br> 
+Diagrama de Hasse

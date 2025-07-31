@@ -1,6 +1,6 @@
 # Testes e Exames
 É de notar que alguns testes são do curso de LCC. Contudo, a matéria é praticamente a mesma e podem ser usados, na minha opinião, como forma de estudo.
-Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí o teste e no exame conterem perguntas referentes a esta base de dados NoSQL.
+Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí no teste e no exame conterem perguntas referentes a esta base de dados NoSQL.
 
 ## Enunciados
 

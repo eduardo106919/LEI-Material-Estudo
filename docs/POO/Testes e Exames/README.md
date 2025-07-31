@@ -1,5 +1,5 @@
 # Testes e Exames
-Nesta UC os professores não disponibilizam a primeira parte do teste com muita frequência, como tal, encontram-se sinalizados os ficheiros que detêm as duas partes.
+Nesta UC, os professores não disponibilizam a primeira parte do teste com muita frequência, como tal, encontram-se sinalizados os ficheiros que detêm as duas partes.
 
 ## Enunciados e Resoluções
 

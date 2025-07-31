@@ -1,6 +1,6 @@
 # Testes e Exames de Sistemas Operativos
 
-> ⚠️ **Aviso:** A partir do ano letivo 2024/2025, devido à mudança de regente, a estrutura dos testes e exames foi alterada para um formato semelhante ao do teste modelo apresentado abaixo. Recomenda-se consultar o teste modelo para te familiarizares com o novo formato.
+> ⚠️ **Aviso:** A partir do ano letivo 2024/2025, devido à mudança de regente, a estrutura dos testes e exames foi alterada para um formato semelhante ao do teste modelo apresentado abaixo. Recomenda-se que consultes o teste modelo para te familiarizares com o novo formato.
 
 ## 2021/2022
 - [Teste](teste_2021_2022_PT.png)

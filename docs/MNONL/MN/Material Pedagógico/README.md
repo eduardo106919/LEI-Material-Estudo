@@ -1,6 +1,8 @@
 # Material Pedagógico
 Conjunto de slides usados nas aulas téoricas da UC no ano letivo 2024/2025
 
+---
+
 ## [Erros](1_Erros.pdf)
 Erros de arredondamento <br>
 Erros inerentes aos dados <br>

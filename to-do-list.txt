@@ -1,43 +1,5 @@
-Talvez meter vídeos sobre matéria que achemos relevantes
-
-Meter projetos e perguntar a outro pessoal se podemos meter os deles
-
-Texto de desculpa de desformatação no pdf do teste 2 de 2021_2022
-Não sei se as resoluções são oficiais ou não, mas, tanto quanto sei, estão corretas as de 2021-2022 e 2019-2020, as de 2022-2023 e 2023-2024 não sei
-Estão marcadas as oficiais como oficiais e as que não sei, não-oficiais
-Créditos das não-oficiais para o https://www.mathcha.io/editor/3519vFN9t7xUVWgJprcdy1vnguy0OGjQixJl3W2
-https://discord.com/channels/418433020719136768/489819591044890624/1300420366149091408
-Créditos de alguns dos ficheiros: https://github.com/David81820
-
-EM PF agradecer: https://pf.sofiars.xyz
-
-ideias:
-diminuir tamanho dos pdfs em Álgebra ?
-
-Álgebra
-Algoritmos
-Análise
-Arquitetura
-BD
-Cálculo
-EPTN
-EA
--------------FM
-FCD
-IO
-Lógica
-MNONL
--------------PF falta Material Pedagógico
-PI
-POO
-Redes
-SC
-SO
-TMD
-
-
-Colocar em IO a revisão do teste do Duarte
-
+Falta FM 
+Falta PF (apenas o Material Pedagógico)
+Colocar em IO a revisão do teste do Duarte (tenho tudo certo, os nerds ficam logo tesudos de ver um 200)
 Rever de que ano é o teste que diz '2023/2024' de TN de EPTN (não é 2022/2023 ?)
-
 tentar sacar créditos dos gajos dos formulários de IO

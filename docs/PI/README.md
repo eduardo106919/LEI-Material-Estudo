@@ -9,4 +9,4 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 Uma coleção bastante grande de enunciados de anos passados
 
 ## [Questões de aula](Questões/README.md)
-Enunciado e resolução das questões de aula propostas durante o ano letivo 2023/2024
+Enunciados e resoluções das questões de aula propostas durante o ano letivo 2023/2024

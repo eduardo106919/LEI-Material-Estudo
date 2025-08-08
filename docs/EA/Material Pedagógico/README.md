@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+
+---
 
 ## [Conceitos de Introdução à UC](parte01_Descritiva.pdf)
 Amostragem <br>
@@ -31,7 +34,7 @@ Distribuição Qui-Quadrado <br>
 Distribuição t-student <br>
 Distribuição F
 
-## [Estimação de parâmetros](parte05_Estimadores.pdf)
+## [Estimação de Parâmetros](parte05_Estimadores.pdf)
 Estimação <br>
 Propriedades de um Estimador <br>
 Tendência <br>

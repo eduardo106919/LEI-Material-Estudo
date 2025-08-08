@@ -1,5 +1,5 @@
 # Exercícios + Soluções
-É de ter em atenção que este material é do ano letivo 2023/2024
+Folhas de exercícios e as respetivas soluções usadas no ano letivo 2023/2024
 
 ---
 

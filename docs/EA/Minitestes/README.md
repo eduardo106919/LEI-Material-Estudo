@@ -1,6 +1,6 @@
 # Minitestes de Estatística Aplicada
 Folhas de cálculo **Excel** com fórmulas já prontas para auxiliar nos cálculos de cada miniteste.  
-Basta inserir os dados e os resultados serão calculados automaticamente ✅.
+Basta inserir os dados e os resultados serão calculados automaticamente.
 
 ---
 

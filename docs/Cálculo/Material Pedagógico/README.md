@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+
+---
 
 ## [Generalidades sobre o conjunto dos números reais](slides1.pdf)
 O que significa Cálculo <br>

@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+
+---
 
 ## [Especificação e Correcção de Algoritmos](Capitulo_1%20Especificação%20e%20Correcção%20de%20Algoritmos.pdf)  
 Correcção de um algoritmo <br> 

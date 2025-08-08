@@ -1,5 +1,7 @@
 # Lógica
 
+---
+
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Uma coleção bastante grande de enunciados e resoluções de anos passados
 

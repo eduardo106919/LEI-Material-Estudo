@@ -17,6 +17,8 @@
 ## 📚 Organização dos Conteúdos
 A equipa de desenvolvimento optou por **não separar as cadeiras por anos** para facilitar futuras reestruturações do curso.
 
+A ordem dos conteúdos nas pastas de Material Pedagógico foi colocada **de acordo com a ordem de aprendizagem** escolhida pelos docentes nos respetivos anos (é de notar que ainda assim, poderão ter sido cometidos erros)
+
 ---
 
 ## 🙏 Créditos

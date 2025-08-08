@@ -1,5 +1,7 @@
 # Tópicos de Matemática Discreta
 
+---
+
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 

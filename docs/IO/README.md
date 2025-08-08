@@ -1,5 +1,7 @@
 # Investigação Operacional
 
+---
+
 ## Material Pedagógico
 Nesta UC a equipa decidiu não colocar material pedagógico.
 

@@ -1,5 +1,7 @@
 # Análise
 
+---
+
 ## [Exercícios + Soluções](Exercícios%20+%20Soluções/README.md)
 Folhas de exercícios e as respetivas soluções usadas no ano letivo 2023/2024
 

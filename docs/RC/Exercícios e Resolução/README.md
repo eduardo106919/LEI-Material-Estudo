@@ -1,4 +1,7 @@
 # Exercícios + Resolução
+Apenas tem parte da resolução do primeiro exercício
+
+---
 
 ## Exercícios
 

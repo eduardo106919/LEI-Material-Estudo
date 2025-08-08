@@ -1,4 +1,7 @@
 # Teste e Exames (2019/2020)
+É de notar que as resoluções aqui apresentadas poderão estar erradas (maioritariamente nas escolhas múltiplas)
+
+---
 
 ## Enunciados e Resoluções
 

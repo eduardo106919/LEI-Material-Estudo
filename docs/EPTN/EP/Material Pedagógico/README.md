@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+
+---
 
 ## [Probabilidades](Cap_I_Probabilidades.pdf)
 Experiência Aleatória e Acontecimento <br>

@@ -37,3 +37,5 @@ TMD
 
 
 Colocar em IO a revisão do teste do Duarte
+
+Rever de que ano é o teste que diz '2023/2024' de TN de EPTN (não é 2022/2023 ?)

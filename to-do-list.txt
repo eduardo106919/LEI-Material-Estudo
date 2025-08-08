@@ -9,10 +9,10 @@ Créditos das não-oficiais para o https://www.mathcha.io/editor/3519vFN9t7xUVWg
 https://discord.com/channels/418433020719136768/489819591044890624/1300420366149091408
 Créditos de alguns dos ficheiros: https://github.com/David81820
 
+EM PF agradecer: https://pf.sofiars.xyz
+
 ideias:
 diminuir tamanho dos pdfs em Álgebra ?
-
-FEITO FEITO : 
 
 Álgebra
 Algoritmos
@@ -24,7 +24,7 @@ EPTN
 EA
 -------------FM
 FCD
--------------IO
+IO
 Lógica
 MNONL
 -------------PF
@@ -34,3 +34,6 @@ Redes
 SC
 SO
 TMD
+
+
+Colocar em IO a revisão do teste do Duarte

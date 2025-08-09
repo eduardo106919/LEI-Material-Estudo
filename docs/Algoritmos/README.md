@@ -10,7 +10,9 @@ Algoritmos e Complexidade é reconhecida como uma das disciplinas mais desafiant
 
 A prática constante e a revisão ativa são essenciais para consolidar o conhecimento e ganhar confiança para os testes e exames.
 
-## [Fichas e Resoluções](https://david81820.github.io/Recursos-LCC/2ano/1sem/AeC/fichas/)
+---
+
+## [Repositório com Fichas e Resoluções](https://david81820.github.io/Recursos-LCC/2ano/1sem/AeC/fichas/)
 Folhas de exercícios usadas em anos letivos passados. Tem em atenção que as resoluções das fichas foram feitas por alunos
 
 ## [Material Pedagógico](Material%20Pedagógico/README.md)

@@ -1,5 +1,7 @@
 # Sistemas de Computação
 
+---
+
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
@@ -7,4 +9,4 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 Uma coleção bastante pequena de enunciados de anos passados
 
 ### [Soluções do Livro](soluções_livro.pdf)
-Soluções dos exercícios do [livro](https://ebooks.uminho.pt/index.php/uminho/catalog/book/93) do professor João M. Fernandes
+Soluções dos exercícios do [livro](https://ebooks.uminho.pt/index.php/uminho/catalog/book/93) do professor João M. Fernandes. É de notar que poderão existir erros.

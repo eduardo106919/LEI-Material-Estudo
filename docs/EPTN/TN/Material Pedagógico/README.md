@@ -1,6 +1,9 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
-## [Divisibilidade](1%20Divisibilidade.pdf)
+---
+
+## [Divisibilidade de números inteiros](1%20Divisibilidade.pdf)
 
 Algoritmo da divisão <br> 
 A relação de divisibilidade <br>
@@ -25,7 +28,7 @@ M.D.C. e M.M.C <br>
 Existência de uma infinidade de primos <br>
 O Crivo de Eratóstenes
  
-## [Congruências](4%20Congruências.pdf)
+## [Congruências módulo um inteiro n](4%20Congruências.pdf)
 Definição <br>
 Classes de Congruência <br>
 O conjunto Z <br>
@@ -41,7 +44,7 @@ Resolução de Congruências Lineares <br>
 Sistemas de Congruências Lineares <br>
 Existência de solução de Sistemas de Congruências Lineares
 
-## [Teoremas](6%20Teoremas.pdf)
+## [Teoremas de Fermat/Euler](6%20Teoremas.pdf)
 Teorema de Fermat <br>
 Demonstração <br>
 Função de Euler <br>

@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+
+---
 
 ## [Teoria da Informação](1_Teoria%20da%20Informação.pdf)
 Introdução à UC <br>
@@ -57,7 +60,7 @@ Teorema da potência de Parseval <br>
 Largura de Banda de um sinal <br>
 Modulação de Sinais
 
-## [Sistemas de Transmissão](6_Sistemas%20de%20Transmissão.pdf)
+## [Análise de Sistemas](6_Sistemas%20de%20Transmissão.pdf)
 Sistemas de Transmissão <br>
 Largura de Banda de Transmissão <br>
 Perdas e Ganhos de Potências <br>
@@ -65,7 +68,7 @@ Filtros <br>
 Transmissão <br>
 Filtragem
 
-## [Controlo de Erros](7_Controlo%20de%20Erros.pdf)
+## [Códigos para Controlo de Erros](7_Controlo%20de%20Erros.pdf)
 Objetivo <br>
 Tipos de erros <br>
 Tipos de códigos (lineares e cíclicos) <br>

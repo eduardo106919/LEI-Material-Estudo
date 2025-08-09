@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+
+---
 
 ## [Capitulo 1](Capitulo_1.pdf)
 Introdução aos conceitos gerais da UC (Internet, rede, protocolos, segurança)

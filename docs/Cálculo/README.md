@@ -1,5 +1,7 @@
 # Cálculo
 
+---
+
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
 Slides e apontamentos usados nas aulas teóricas da UC.
 

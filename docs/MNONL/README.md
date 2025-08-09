@@ -1,5 +1,7 @@
 # Métodos Numéricos e Otimização Não Linear
 
+---
+
 ## [Métodos Numéricos](MN/README.md)
 Material relavante à matéria de Métodos Numéricos
 

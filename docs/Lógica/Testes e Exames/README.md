@@ -1,5 +1,7 @@
 # Testes e Exames
-Apenas o programa de 2021/22 coincide com o atual programa; os testes dos anos anteriores podem não cobrir parte da matéria
+Apenas o programa de 2021/22 coincide com o atual programa. Por isso, testes dos anos anteriores podem não cobrir parte da matéria
+
+---
 
 ## Enunciados e Resoluções
 

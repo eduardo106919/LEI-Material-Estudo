@@ -1,12 +1,16 @@
 # Material Pedagógico
 
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+
+---
+
 ## [Noções Topológicas em R](Slides1.pdf)
 Espaço R <br> 
 Produto Interno <br> 
 Norma e Distância <br> 
 Noções Topológicas
 
-## [Funcões de varias variáveis](Slides2.pdf)
+## [Funcões de várias variáveis](Slides2.pdf)
 Funções Reais <br> 
 Funções Vetoriais <br> 
 Limites e Continuidade

@@ -1,4 +1,7 @@
 # Exercícios e Soluções
+Conjunto de exercícios (e as respetivas soluções) usados nas aulas TP da UC no ano letivo 2024/2025
+
+---
 
 ## [Fichas](Fichas_EA.pdf)
 Todas as fichas usadas nas aulas TP da UC no ano letivo de 2024/2025
@@ -11,6 +14,8 @@ Tabelas Estatísticas, necessárias para a resolução dos exercícios, usadas n
 
 ## [Exercício sobre a Regressão Linear](Regressão_Linear_Facebook.pdf)
 Exemplo da aplicação da Regressão Linear sobre um exercício proposto. Ajuda a compreender melhor a análise complexa necessária nesta parte da matéria
+
+---
 
 ## Outputs da Ficha 11
 É necessário saber estes outputs para que se possa responder às perguntas realizadas nas folhas de exercícios

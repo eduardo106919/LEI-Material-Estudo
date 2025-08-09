@@ -1,5 +1,7 @@
 # Redes de Computadores
 
+---
+
 ## [Exercícios + Resolução](Exercícios%20e%20Resolução/README.md)
 Apenas tem parte da resolução do primeiro exercício
 

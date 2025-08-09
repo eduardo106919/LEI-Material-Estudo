@@ -1,5 +1,8 @@
 # Material Pedagógico
+
 É de notar que os power points poderão ter ser vantajosos já que poderão ajudar a perceber a ordem de certos tópicos.
+
+---
 
 ## PDF´s
  

@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+
+---
 
 ## [Generalidades sobre o conjunto dos números reais](slides1.pdf)
 O que significa Cálculo <br>
@@ -34,7 +37,7 @@ Definição de Continuidade <br>
 Resultados sobre continuidade pontual <br> 
 Descontinuidades
 
-## [Derivada de uma função real de variável real](slides5.pdf)
+## [Derivada de uma função real de variável real num ponto](slides5.pdf)
 Taxas de variação e Retas Tangentes a Curvas <br> 
 Derivadas Laterais <br>
 Retas tangente e normal <br> 
@@ -80,7 +83,7 @@ Série Geométrica <br>
 Série Harmónica <br> 
 Série de Riemann
 
-## [Séries de Termos Negativos e Séries Alternadas](slides12.pdf)
+## [Séries de Termos Não Negativos, Séries de Termos com sinal arbitrário e Séries Alternadas](slides12.pdf)
 Definições e Teoremas de Séries de Termos Negativos <br> 
 Critérios de Convergência <br> 
 Definições e Teoremas de Séries de termos com sinal arbitrário <br> 
@@ -88,6 +91,6 @@ Convergência Absoluta vs Convergência Simples <br>
 Séries Alternadas <br> 
 Critério de Leibnitz
 
-## [Séries de Potência](slides13.pdf)
+## [Séries de Potências](slides13.pdf)
 Definições e Propriedades <br> 
 Operações com Séries de Potências

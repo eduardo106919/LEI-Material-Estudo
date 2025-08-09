@@ -1,4 +1,7 @@
 # Material Pedagógico
+Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+
+---
 
 ## [Apresentação](0%20-%20Presentation.pdf)
 Apresentação da UC
@@ -82,13 +85,13 @@ Proteção e Integridade dos Dados <br>
 RAID <br>
 
 ## [Design e Interface do Sistema de Ficheiros](8%20-%20File%20System%20Interface%20and%20Design.pdf)
-Interfaces de Armazenamento
-Abstrações do Sistema de Ficheiros
-Interface do Sistema de Ficheiros
-Configurar um Sistema de Ficheiros
-Sistema de Ficheiros
-Inode
-Diretorias
-Otimização e Performance
-Consistência de falhas
+Interfaces de Armazenamento <br>
+Abstrações do Sistema de Ficheiros <br>
+Interface do Sistema de Ficheiros <br>
+Configurar um Sistema de Ficheiros <br>
+Sistema de Ficheiros <br>
+Inode <br>
+Diretorias <br>
+Otimização e Performance <br>
+Consistência de falhas <br>
 Sistema de Ficheiros Virtual

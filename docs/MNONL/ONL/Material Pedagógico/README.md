@@ -1,6 +1,8 @@
 # Material Pedagógico
 Conjunto de slides usados nas aulas téoricas da UC no ano letivo 2024/2025
 
+---
+
 ## [Método DSC e Condições de Otimalidade](1_Método%20DSC%20e%20Condições%20de%20Otimalidad.pdf)
 Otimização <br>
 Classificação de problemas (de otimização) <br>

@@ -1,6 +1,8 @@
 # Minitestes de Estatística Aplicada
+Folhas de cálculo **Excel** com fórmulas já prontas para auxiliar nos cálculos de cada miniteste.  
+Basta inserir os dados e os resultados serão calculados automaticamente.
 
-Esta pasta contém folhas Excel de apoio para cada miniteste, com fórmulas já criadas para facilitar os cálculos. Basta preencher os dados e os resultados são calculados automaticamente.
+---
 
 ## Excel de Apoio Disponíveis
 
@@ -9,3 +11,7 @@ Esta pasta contém folhas Excel de apoio para cada miniteste, com fórmulas já 
 - [Mini-teste 3](Mini-teste_3.xlsx)
 - [Mini-teste 4](Mini-teste_4.xlsx)
 
+---
+
+💡 **Créditos**  
+Feito por [João Machado](https://github.com/pinetreeaxe)  

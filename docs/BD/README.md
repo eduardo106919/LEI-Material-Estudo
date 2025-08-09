@@ -6,6 +6,8 @@ O professor Orlando Belo valoriza que o trabalho seja feito exatamente conforme 
 
 > **Nota:** O professor não procura projetos demasiado complexos ou "invenções". É perfeitamente possível tirar uma excelente nota com um projeto simples, bem estruturado e que cumpra todos os requisitos. "Simples é bom", como costuma dizer o professor. Ao optar por soluções simples, também diminuis a margem para erros e facilita a defesa do trabalho na apresentação.
 
+---
+
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
 

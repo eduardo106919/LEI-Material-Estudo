@@ -1,6 +1,8 @@
 # Material Pedagógico
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
+---
+
 ## [Noções básicas de lógica](Cap1.pdf)
 Pequena introdução <br> 
 Cálculo proposicional clássico <br> 

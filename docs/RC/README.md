@@ -4,7 +4,10 @@
 Apenas tem parte da resolução do primeiro exercício
 
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
-Conjunto de slides usados na aulas teóricas da UC no ano letivo 2024/2025
+Slides e apontamentos usados nas aulas teóricas da UC.
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
-É de notar que as resoluções aqui apresentadas poderão estar erradas (maioritariamente nas escolhas múltiplas)
+Coleção de enunciados e resoluções de anos anteriores.
+
+## [Playlist de Apoio](https://www.youtube.com/watch?v=olbr3WZwrdU&list=PLC32R_dsThIhOAi4q4Hes8_2qdQM2iZb3)
+Esta playlist reúne vídeos relevantes para perceber o funcionamento da internet e da comunicação em redes. Apesar de alguns vídeos abordarem temas não lecionados na UC e outros tópicos não estarem presentes, é um bom recurso para consolidar conceitos fundamentais.

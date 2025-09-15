@@ -4,3 +4,5 @@ Falta PF (apenas o Material Pedagógico)
 Colocar em IO a revisão do teste do Duarte
 Rever de que ano é o teste que diz '2023/2024' de TN de EPTN (não é 2022/2023 ?)
 tentar sacar créditos dos gajos dos formulários de IO
+
+Adicionar LI1 e LI2 e LI3 e LI4 ?

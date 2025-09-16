@@ -1,6 +1,9 @@
 # Material Pedagógico
 Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
 
+> ⚠️ **Aviso:** No ano letivo 2024/2025 o regente da UC mudou, por isso, tem em conta que a matéria lecionada poderá ser diferente, ou, que os objetivos de aprendizagem poderão ter mudado.
+
+
 ---
 
 ## [Generalidades sobre o conjunto dos números reais](slides1.pdf)

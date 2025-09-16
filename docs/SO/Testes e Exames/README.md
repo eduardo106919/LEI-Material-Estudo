@@ -5,15 +5,15 @@
 --- 
 
 ### Teste 
-- [2021/2022](teste_2021_2022_PT.png)
-- [2022/2023](teste_2022_2023_PT.jpg)
-- [2023/2024](teste_2023_2024_PT.jpg)
+- [2021/2022](teste_2021_2022_PT.pdf)
+- [2022/2023](teste_2022_2023_PT.pdf)
+- [2023/2024](teste_2023_2024_PT.pdf)
 
 ### Exame
-- [2021/2022](exame_2021_2022_PT.jpg)
-- [2022/2023](exame_2022_2023_PT.jpg)
-- [2023/2024](exame_2023_2024_PT.jpg)
+- [2021/2022](exame_2021_2022_PT.pdf)
+- [2022/2023](exame_2022_2023_PT.pdf)
+- [2023/2024](exame_2023_2024_PT.pdf)
 
-## Modelos
+### Modelos
 - [Teste Modelo 2024/2025 (PT)](teste_modelo_2024_2025_PT.pdf)
 - [Teste Modelo 2024/2025 (EN)](teste_modelo_2024_2025_EN.pdf)

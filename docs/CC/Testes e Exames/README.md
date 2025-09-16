@@ -1,0 +1,14 @@
+# Testes e Exames
+> ⚠️ **Aviso:** O formato dos testes poderá mudar ao longo dos anos, logo, os tipos de questões e modelos de teste aqui apresentados poderão não corresponder aos que serão usados na hora da avaliação.
+
+---
+
+## Enunciados e Resoluções
+
+* [Teste 2015/2016 transcrito](Teste_2015_2016.pdf)
+
+* [Exame Recurso 2022/2023](Exame_2022_2023.pdf)  -  [Resolução](Exame_2022_2023_sol.pdf)
+
+* [Exemplos de Questões do Teste](Exemplo_Questoes_Avaliacao.pdf)
+
+* [Teste Exemplo](Teste_Exemplo.pdf)

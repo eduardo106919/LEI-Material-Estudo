@@ -2,15 +2,8 @@
 
 ---
 
-## 👥 Equipa de Desenvolvimento
-
-- [darteescar](https://github.com/darteescar)
-- [SimaoOliveira05](https://github.com/SimaoOliveira05)
-
----
-
 ## ⚠️ Aviso Importante
-> Esta coleção **não deve ser usada como substituição das aulas** e do material oficial dos professores. O conteúdo pode estar desatualizado ou não corresponder aos objetivos definidos pelos docentes. Todas as resoluções fornecidas foram enviadas pelas equipas docentes dos anos correspondentes. Caso esteja escrito explicitamente que 'não é oficial', significa que foi fornecida por um colega.
+> Esta coleção **não deve ser usada como substituição das aulas** e do material disponibilizado pelos professores. O conteúdo pode estar desatualizado ou não corresponder aos objetivos definidos pelos docentes. Todas as resoluções fornecidas foram enviadas pelas equipas docentes dos anos correspondentes. Caso esteja escrito explicitamente que 'não é oficial', significa que foi fornecida por um colega e poderá, portanto, conter erros.
 
 ---
 
@@ -83,6 +76,13 @@ Agradecimento especial a todos os colegas e docentes que contribuíram com mater
 
 ### T
 - [Tópicos de Matemática Discreta](TMD/README.md)
+
+---
+
+## 👥 Equipa de Desenvolvimento
+
+- [darteescar](https://github.com/darteescar)
+- [SimaoOliveira05](https://github.com/SimaoOliveira05)
 
 ---
 

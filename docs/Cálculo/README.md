@@ -1,4 +1,5 @@
 # Cálculo
+> ⚠️ **Aviso:** No ano letivo 2024/2025 o regente da UC mudou, por isso, tem em conta que a matéria lecionada poderá ser diferente, ou, que os objetivos de aprendizagem poderão ter mudado.
 
 ---
 

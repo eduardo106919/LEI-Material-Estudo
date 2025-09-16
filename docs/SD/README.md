@@ -11,3 +11,4 @@ Conjunto de slides usados na aulas teóricas da UC no ano letivo 2025/2026
 Conjunto de livros e slides recomendados pelo regente da UC no ano letivo 2025/2026
 
 ## [Aulas Online Gravadas](https://www.youtube.com/playlist?list=PLEFgSUDWoz1yD4GchgIAIAdO26I_JTJnN)
+Aulas teóricas gravadas durante aulas online

@@ -19,6 +19,20 @@ Agradecimento especial a todos os colegas e docentes que contribuíram com mater
 
 ---
 
+## 📨 Contribuições 
+
+Se tiverem algum teste, exame ou outro material que não esteja presente no site, por favor contactem a equipa de desenvolvimento através do Discord para que possamos adicioná-lo.
+
+---
+
+
+## 👥 Equipa de Desenvolvimento
+
+- [darteescar](https://github.com/darteescar) — Discord: filhodoedgar
+- [SimaoOliveira05](https://github.com/SimaoOliveira05) — Discord: mrvilager
+
+---
+
 ## 🗂️ Cadeiras
 
 ### A
@@ -76,13 +90,6 @@ Agradecimento especial a todos os colegas e docentes que contribuíram com mater
 
 ### T
 - [Tópicos de Matemática Discreta](TMD/README.md)
-
----
-
-## 👥 Equipa de Desenvolvimento
-
-- [darteescar](https://github.com/darteescar)
-- [SimaoOliveira05](https://github.com/SimaoOliveira05)
 
 ---
 

@@ -3,7 +3,14 @@
 ---
 
 ## [Material Pedagógico](Material%20Pedagógico/README.md)
-Conjunto de slides usados na aulas teóricas da UC no ano letivo 2023/2024
+Slides e apontamentos usados nas aulas teóricas da UC.
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
-Uma coleção bastante grande de enunciados e resoluções de anos passados
+Coleção de enunciados e resoluções de anos anteriores.
+
+## 🎥 Vídeos de Apoio
+
+### Playlist de Integração
+[The Organic Chemistry Tutor – Calculus: Integration](https://www.youtube.com/watch?v=2N6A4ed8s58&list=PLMTzvmPYQsNRpsxc4g-qe_Samlxg3v5RX)
+
+Esta playlist contém vários vídeos introdutórios sobre integração, ideais para quem está a começar a estudar o tema.

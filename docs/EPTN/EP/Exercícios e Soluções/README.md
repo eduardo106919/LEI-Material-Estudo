@@ -12,7 +12,7 @@ Todas as fichas usadas nas aulas TP da UC no ano letivo de 2023/2024
 * [Ficha 4](Folha4_EP.pdf) - [Soluções](EP_Solucoes_FP_4.pdf)
 
 ## Fichas Suplementares
-Todas as fichas fornecidas pelos docentes da UC no ano letivo de 2023/2024
+Todas as fichas suplementares fornecidas pelos docentes da UC no ano letivo de 2023/2024
 
 * [Ficha 1](Folha1_Supl_EP.pdf)
 * [Ficha 2](Folha2_Supl_EP.pdf)

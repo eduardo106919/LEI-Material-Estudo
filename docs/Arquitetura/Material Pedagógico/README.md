@@ -3,8 +3,6 @@
 É de notar que os power points poderão ter ser vantajosos já que poderão ajudar a perceber a ordem de certos tópicos.
 
 ---
-
-## PDF´s
  
 ### [PDF - Modelo de VonNewmann](01-VonNewmann.pdf) <br> [PPTX - Modelo de VonNewmann](01-VonNewmann.pptx)
 Conceitos gerais de introdução à disciplina

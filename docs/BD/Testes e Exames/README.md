@@ -1,5 +1,5 @@
 # Testes e Exames
-É de notar que alguns testes são do curso de LCC. Contudo, a matéria é praticamente a mesma e podem ser usados, na minha opinião, como forma de estudo.
+É de notar que alguns testes são do curso de LCC. Contudo, a matéria é praticamente a mesma e podem ser usados, na opinião da equipa de desenvolvimento, como forma de estudo.
 Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí no teste e no exame conterem perguntas referentes a este SGBD.
 
 ---
@@ -13,7 +13,7 @@ Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí no teste e n
 * [2022/2023 LEI](teste_2022_2023_LEI.pdf)
 * [2024/2025 LEI](teste_2024_2025_LEI.pdf)
 
-### Exames
+### Exames de Recurso
 
 * [2021/2022 LCC](exame_2021_2022_LCC.pdf)
 * [2022/2023 LCC](exame_2022_2023_LCC.pdf)

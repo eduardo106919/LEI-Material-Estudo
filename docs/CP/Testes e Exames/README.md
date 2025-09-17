@@ -1,6 +1,6 @@
 # Testes e Exames - Cálculo de Programas
 
-Esta pasta contém testes, exames e recursos de avaliação da Unidade Curricular de Cálculo de Programas.
+Uma coleção bastante grande de enunciados e algumas resoluções de anos passados
 
 ## Enunciados e Resoluções
 
@@ -12,7 +12,7 @@ Esta pasta contém testes, exames e recursos de avaliação da Unidade Curricula
 * [Teste 23/24 1ª parte](Teste_2324_1.jpg) | [2ª parte](Teste_2324_2.jpg) |[ 3ª parte](Teste_2324_3.jpg)
 * [Teste 23/24 2ª fase com resolução LEI+MiEI](Teste_2324_2_com_resolucao.pdf)
 
-### Exames
+### Exames de Recurso
 * [Exame 18/19 com solução LCC+MiEI](Exame_1819_com_solucao.pdf)
 * [Exame 19/20 com solução LCC+MiEI](Exame_1920_com_solucao.pdf)
 * [Exame época especial 20/21 com solução LCC+MiEI](Exame_especial_2021_com_solucao.pdf)

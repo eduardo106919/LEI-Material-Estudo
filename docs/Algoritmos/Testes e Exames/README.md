@@ -19,7 +19,7 @@ Uma coleção bastante grande de enunciados e resoluções de anos passados
 * [2023/2024](2023_2024/teste_2.pdf)
 * [2024/2025](2024_2025/teste_2.pdf)
 
-### Exame Recurso
+### Exames de Recurso
 * [2019/2020](2019_2020/recurso.pdf)
 * [2022/2023](2022_2023/recurso.pdf) - [Resolução parcial não oficial](2022_2023/recurso_sol_não_oficial.pdf)
 * [2023/2024](2023_2024/recurso.pdf)

@@ -19,7 +19,7 @@
 * [B 2023/2024](teste_2_B_2023_2024.pdf) - [Resolução](teste_2_B_2023_2024_sol.pdf)
 <br>
 
-### Exame de Recurso
+### Exames de Recurso
 * [A 2024/2025](recurso_A_2024_2025.pdf) - [Resolução](recurso_A_2024_2025_sol.pdf)
 * [B 2024/2025](recurso_B_2024_2025.pdf) - [Resolução](recurso_B_2024_2025_sol.pdf)
 

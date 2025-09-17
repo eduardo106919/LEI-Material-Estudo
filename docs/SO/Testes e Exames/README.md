@@ -9,10 +9,10 @@
 - [2022/2023](teste_2022_2023_PT.pdf)
 - [2023/2024](teste_2023_2024_PT.pdf)
 
-### Exame
-- [2021/2022](exame_2021_2022_PT.pdf)
-- [2022/2023](exame_2022_2023_PT.pdf)
-- [2023/2024](exame_2023_2024_PT.pdf)
+### Exames de Recurso
+- [2021/2022](recurso_2021_2022_PT.pdf)
+- [2022/2023](recurso_2022_2023_PT.pdf)
+- [2023/2024](recurso_2023_2024_PT.pdf)
 
 ### Modelos
 - [Teste Modelo 2024/2025 (PT)](teste_modelo_2024_2025_PT.pdf)

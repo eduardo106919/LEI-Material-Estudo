@@ -93,28 +93,6 @@ Se tiverem algum teste, exame ou outro material que não esteja presente no site
 
 ---
 
-## 💡 Gostou do site?
-
-<div style="text-align: center; margin: 2em 0;">
-  <div id="likebtn_container" 
-       data-lang="pt" 
-       data-theme="github" 
-       data-ef_voting="bounce" 
-       data-white_label="true" 
-       data-icon_l="hrt1" 
-       data-counter_show="true">
-  </div>
-</div>
-
-<script>
-(function(d,e,s){
-  if(d.getElementById("likebtn_wjs")) return;
-  var a=d.createElement(e); a.id="likebtn_wjs"; a.async=1; a.src=s;
-  var m=d.getElementsByTagName(e)[0]; m.parentNode.insertBefore(a,m)
-})(document,"script","https://w.likebtn.com/js/w/widget.js");
-</script>
-
-
 <p align="center">
   <img src="assets/livro.png" alt="Logo LEI" width="120"/>
 </p>

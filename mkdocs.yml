@@ -13,13 +13,3 @@ theme:
 
 nav:
   - Início: index.md
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - footnotes
-  - def_list
-  - tables
-  - toc:
-      permalink: true

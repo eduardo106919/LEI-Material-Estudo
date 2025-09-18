@@ -18,7 +18,7 @@ Exemplo da aplicação da Regressão Linear sobre um exercício proposto. Ajuda 
 ---
 
 ## Outputs da Ficha 11
-É necessário saber estes outputs para que se possa responder às perguntas realizadas nas folhas de exercícios
+É necessário saber estes outputs para que se possa responder às perguntas realizadas na folha de exercícios nº11
 
  [Exercício 1](Ficha11_outputs/exerc1.pdf)
 

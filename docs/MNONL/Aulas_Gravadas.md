@@ -10,8 +10,6 @@
 * [26/11](https://www.twitch.tv/videos/816324110)
 * [10/12](https://www.twitch.tv/videos/833427091)
 * [19/01 - não foi bem uma aula](https://www.youtube.com/watch?v=mQrTYC9dyFs&ab_channel=PedroAnt%C3%B3nio)
-* []()
-
 
 ## Aulas Teórico-Práticas
 * [Aula 5 - 09/11](https://www.youtube.com/watch?v=OslhccE6dDg)

@@ -1,15 +1,3 @@
-Aulas online feitas:
-DSS
-SD
-BD
-IO
-MNonl
-
-aulas online em falta:
-Redes
-
-
-
 - Material Pedagógico em falta para:
 SD
 CC

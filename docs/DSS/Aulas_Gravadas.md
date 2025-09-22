@@ -1,5 +1,5 @@
 # Aulas Gravadas
-> ⚠️ **Aviso:** Muitas das gravações foram perdidas e, por isso, a totalidade da matéria não se encontra disponível nestas gravações. Para além disso, é possível que a matéria lecionada tenha mudado com o decorrer dos anos.
+> ⚠️ **Aviso:** Muitas das gravações foram perdidas e, por isso, a totalidade da matéria não se encontra disponível nestas gravações. Para além disso, é possível que a matéria lecionada tenha mudado com o decorrer dos anos já que estas gravações pertencem ao ano letivo 2020/2021.
 
 ## Aulas Teóricas
 * [08/10](https://www.twitch.tv/videos/764402437) 

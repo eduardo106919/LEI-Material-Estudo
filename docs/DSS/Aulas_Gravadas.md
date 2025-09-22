@@ -18,8 +18,9 @@
 
 ## Aulas Teórico-Práticas
 
-* [06/11](https://www.youtube.com/watch?v=hcmqNMTEM24)
-* [13/11](https://www.twitch.tv/videos/801709246)
-* [18/11](https://www.twitch.tv/videos/807237716)
-* [04/12](https://www.twitch.tv/videos/825487592)
-* [11/12](https://www.twitch.tv/videos/833561137)
+* [Aula 5 - 13/11](https://www.twitch.tv/videos/801384358)
+* [Aula 6 - 20/11](https://www.twitch.tv/videos/809361314)
+* [Aula 7 - 27/11](https://www.twitch.tv/videos/817302841)
+* [Aula 8 - 04/12](https://www.twitch.tv/videos/825489309)
+* [Aula 9 - 11/12](https://www.twitch.tv/videos/833431384)
+* [Aula 10 - 18/12](https://www.twitch.tv/videos/841572678)

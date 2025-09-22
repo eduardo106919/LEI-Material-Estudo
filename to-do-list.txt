@@ -1,7 +1,3 @@
-
-
-Rever de que ano é o teste que diz '2023/2024' de TN de EPTN (não é 2022/2023 ?)
-
 - Material Pedagógico em falta para:
 SD
 CC

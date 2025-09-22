@@ -3,9 +3,9 @@ DSS
 SD
 BD
 IO
+MNonl
 
 aulas online em falta:
-MNONL
 Redes
 
 

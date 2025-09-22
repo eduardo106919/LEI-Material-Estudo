@@ -11,5 +11,5 @@ Uma coleção bastante grande de enunciados e resoluções de anos passados
 ## [Bibliografia e Slides Complementares](Bibliografia/README.md)
 Conjunto de livros e slides recomendados pelo regente da UC no ano letivo 2025/2026
 
-## [Aulas Online Gravadas](https://www.youtube.com/playlist?list=PLEFgSUDWoz1yD4GchgIAIAdO26I_JTJnN)
-Aulas teóricas gravadas durante aulas online
+## [Aulas Online Gravadas](Aulas_Gravadas.md)
+Aulas teóricas gravadas durante aulas as online de 2020/2021.

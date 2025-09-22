@@ -9,6 +9,9 @@ Slides e apontamentos usados nas aulas teóricas da UC.
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Coleção de enunciados e resoluções de anos anteriores.
 
+## [Exercícios e Resoluções](Exercícios%20e%20Soluções/README.md)
+Conjunto de fichas e resoluções de alguns exercícios das fichas de exercícios do ano letivo 2023/2024.
+
 ## 🎥 Vídeos de Apoio
 
 ### Playlist de Integração

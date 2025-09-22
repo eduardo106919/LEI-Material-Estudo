@@ -1,3 +1,7 @@
+Faltam testes de SSI e CG
+
+Meter testes CP jpg em pdf
+
 - Material Pedagógico em falta para:
 SD
 CC

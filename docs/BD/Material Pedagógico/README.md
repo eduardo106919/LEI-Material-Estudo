@@ -23,7 +23,7 @@ Modelação Lógica
 
 ## [Álgebra Relacional](Álgebra%20Relacional.pdf)
 Introdução <br>
-Operadores<br>  
+Operadores<br>
 Seleção, projeção e junção <br> 
 União, intersecção, diferença, divisão e produto cartesiano <br> 
 Extensões aos operadores base <br> 

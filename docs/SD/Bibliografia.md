@@ -1,5 +1,5 @@
 # Bibliografia
-Conjunto de livros e slides recomendados pelo regente da UC no ano letivo 2025/2026
+Conjunto de livros e slides recomendados para a UC no ano letivo 2025/2026
 
 ---
 

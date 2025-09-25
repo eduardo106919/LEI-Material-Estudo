@@ -10,3 +10,5 @@ Diferentes formulários elaborados por alunos para levar para os testes de IO
 - [Cabula 2 - DOCX](IOformulario.docx)
 - [Cabula 3 - PDF](formularioIO.pdf)
 - [Cabula 4 - PDF](cabula.pdf)
+- Cabula 5 - PDF [Parte 1](Formulario5p1.pdf) | [Parte 2](Formulario5p2.pdf)
+- [Cabula 6 - PDF](Formulario6.pdf)

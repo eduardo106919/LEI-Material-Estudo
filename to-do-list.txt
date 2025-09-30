@@ -4,6 +4,8 @@ Meter testes CP jpg em pdf
 
 Melhorar organização de resoluções em EA
 
+Renomear os resumos para folhas de teste e dar nome melhr
+
 - Material Pedagógico em falta para:
 SD
 CC

@@ -2,6 +2,8 @@ Faltam testes de SSI e CG
 
 Meter testes CP jpg em pdf
 
+Melhorar organização de resoluções em EA
+
 - Material Pedagógico em falta para:
 SD
 CC

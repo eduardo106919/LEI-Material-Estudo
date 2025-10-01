@@ -1,5 +1,5 @@
 # Exercícios e Resoluções
-Conjunto de fichas e resoluções de alguns exercícios  das fichas de exercícios do ano letivo 2023/2024.
+Conjunto de fichas e resoluções de alguns exercícios  das fichas de exercícios do ano letivo 2024/2025
 
 > ⚠️ **Aviso:** É de realçar que as resoluções poderão não estar corretas, ordenadas ou até completas.
 

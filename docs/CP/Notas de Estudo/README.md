@@ -1,6 +1,7 @@
-# Notas de Estudo - Cálculo de Programas
+# Notas de Estudo
+Materiais de estudo para a cadeira de Cálculo de Programas.
 
-Esta pasta contém materiais de estudo para a cadeira de Cálculo de Programas.
+---
 
 ## Conteúdo
 

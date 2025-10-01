@@ -10,3 +10,6 @@ Coleção de guiões práticos, enunciados, slides e esqueletos de código para 
 
 ## [Testes e Exames](Testes%20e%20Exames/README.md)
 Uma coleção bastante grande de enunciados de anos passados
+
+## [Resumos](Resumos_SO.pdf)
+Resumos dos principais tópicos abordados na UC. É de realçar que foram produzidos por uma colega, por isso, poderá conter erros

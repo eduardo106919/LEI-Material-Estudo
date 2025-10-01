@@ -1,6 +1,6 @@
 # Fichas Práticas de Sistemas Operativos
 
-Aqui encontras todos os guiões práticos da UC, com enunciados, slides e esqueleto de código para cada ficha. Sempre que disponível, está também incluída a versão em inglês.
+Aqui encontras todos os guiões práticos da UC, com enunciados, slides e esqueleto de código para cada ficha. Sempre que disponível, está também incluída a versão em inglês. É de realçar que os conteúdos pertencentes a esta pasta foram fornecidos no ano letivo de 2024/2025.
 
 ---
 

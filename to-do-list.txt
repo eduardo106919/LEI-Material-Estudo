@@ -1,4 +1,4 @@
-Faltam testes de SSI e CG
+Faltam testes de SSI
 
 - Material Pedagógico em falta para:
 SD

@@ -6,7 +6,7 @@ Uma coleção bastante grande de enunciados de anos passados
 ## Enunciados
 
 ### Testes
-* [Teste 20/21](Teste_2020_2021.pdf)
+* [Teste 20/21](Teste_20_21.pdf)
 * [Teste 22/23](Teste_22_23.pdf)
 * [Teste 23/24 Versão A](Teste_23_24_A.pdf)
 * [Teste 23/24 Versão B](Teste_23_24_B.pdf)

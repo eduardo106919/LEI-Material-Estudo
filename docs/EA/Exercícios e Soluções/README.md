@@ -13,7 +13,7 @@ Todas as fichas usadas nas aulas TP da UC no ano letivo de 2024/2025
 ## Soluções e Resoluções
 
 ### [Soluções](Soluções_EA.pdf)
-Soluções das fichas usadas nas aulas TP da UC no ano letivo de 2024/2025
+Soluções e algumas resoluções das fichas usadas nas aulas TP da UC no ano letivo de 2024/2025
 
 * [Resolução da ficha 1](Ficha%201.pdf)
 * [Resolução da ficha 2](Ficha%202.pdf)

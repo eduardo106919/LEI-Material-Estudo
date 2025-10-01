@@ -11,5 +11,5 @@ Uma coleção bastante grande de enunciados e resoluções de anos passados
 ## [Exercícios e Resoluções](Exercícios%20e%20Soluções/README.md)
 Conjunto de fichas e resoluções de alguns exercícios das fichas de exercícios do ano letivo 2024/2025.
 
-## [Folha para o teste](Resumos.pdf)
-Exemplo de folha escrita para levar para o teste final ou exame de recurso
+## [Folha Auxílio](Folha%20Auxílio.pdf)
+Uma folha de auxílio com fórmulas e conceitos importantes para usar no teste final ou exame de recurso da UC.

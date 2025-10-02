@@ -1,5 +1,3 @@
-Faltam testes de SSI
-
 - Material Pedagógico em falta para:
 SD
 CC

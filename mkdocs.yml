@@ -12,7 +12,7 @@ theme:
   favicon: assets/livro.png
   analytics:
     provider: google
-    property: G-M15LQD5QPZ  # <-- substitua aqui pelo seu ID do GA4
+    property: G-M15LQD5QPZ
 
 nav:
   - Início: index.md

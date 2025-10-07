@@ -13,3 +13,8 @@ theme:
 
 nav:
   - Início: index.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-M15LQD5QPZ

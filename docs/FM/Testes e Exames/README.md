@@ -3,6 +3,8 @@
 
 Esta secção reúne exercícios e provas reais de anos anteriores. Muitos destes exercícios podem voltar a ser utilizados em avaliações futuras. 
 
+---
+
 ## Minitestes
 - [Miniteste 1 - Versão 1](Miniteste1.pdf)
 - [Miniteste 2 - Versão 1](Miniteste2.pdf)

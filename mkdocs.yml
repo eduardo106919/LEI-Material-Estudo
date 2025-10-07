@@ -10,11 +10,9 @@ theme:
   language: pt
   logo: assets/livro.png
   favicon: assets/livro.png
+  analytics:
+    provider: google
+    property: G-M15LQD5QPZ  # <-- substitua aqui pelo seu ID do GA4
 
 nav:
   - Início: index.md
-
-extra:
-  analytics:
-    provider: google
-    property: G-M15LQD5QPZ

@@ -10,3 +10,6 @@ Uma coleção bastante grande de enunciados de anos passados
 
 ## [Questões de aula](Questões/README.md)
 Enunciados e resoluções das questões de aula propostas durante o ano letivo 2023/2024
+
+## [Website da Professora Sofia Santos](https://pi.sofiars.xyz/100q)
+Website com resoluções de 50 das 100 questões da UC. As fichas e exames não estão disponíveis de momento

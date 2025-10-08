@@ -10,4 +10,3 @@ Enunciados e resoluções das questões de aula propostas durante o ano letivo 2
 ### Parte 2
 
 * [Questões](Questoes2.pdf) - [Resolução](Questoes2.c)
-

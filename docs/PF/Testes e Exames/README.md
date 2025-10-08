@@ -20,5 +20,3 @@ Uma coleção bastante grande de enunciados de anos passados
 [Teste 2022/2023 com Resolução](https://sofiars.notion.site/Resolu-o-do-teste-PF-22-23-ca7625c44c574e94bbaf5a301fd092fb) da professora Sofia Santos
 
 [Recurso 2022/2023 com Resolução](https://sofiars.notion.site/Resolu-o-do-exame-PF-22-23-58da1838f2fc4de1af7658a0d7df88a8) da professora Sofia Santos
-
-[Testes e Exames](https://pf.sofiars.xyz/testes_exames/) no website sobre PF da professora Sofia Santos

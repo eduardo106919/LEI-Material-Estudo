@@ -21,7 +21,7 @@ Agradecimento especial a todos os seguintes colegas e docentes:
 * [Mendes](https://github.com/mendess) - pelo material disponível no seu repositório de Resumos
 * [Prof. Sofia Santos](https://github.com/RisingFisan) - pelos sites que desenvolveu para PF e PI
 * [João Machado](https://github.com/pinetreeaxe) - pelos excel's para os momentos e-learning de EA
-* [Tiago Figueiredo](https://github.com/tiagofigueiredo7) - pelos material de FM (também sabe Java)
+* [Tiago Figueiredo](https://github.com/tiagofigueiredo7) - pelo material de FM (também sabe Java)
 * [Filipa Gonçalves](https://github.com/filipac271) - por todo o material de resoluções de fichas e resumos
 
 ---

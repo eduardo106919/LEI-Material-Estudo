@@ -99,7 +99,3 @@ Se tiverem algum teste, exame ou outro material que não esteja presente no site
 - [Tópicos de Matemática Discreta](TMD/README.md)
 
 ---
-
-<p align="center">
-  <img src="assets/livro.png" alt="Logo LEI" width="120"/>
-</p>

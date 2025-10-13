@@ -10,9 +10,24 @@ theme:
   language: pt
   logo: assets/livro.png
   favicon: assets/livro.png
-  analytics:
-    provider: google
-    property: G-M15LQD5QPZ
 
 nav:
   - Início: index.md
+
+extra:
+  analytics: 
+    provider: google
+    property: G-M15LQD5QPZ
+    feedback:
+      title: Achas-te a página útil?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Esta página foi útil
+          data: 1
+          note: >-
+            Obrigado pelo teu feedback!
+        - icon: material/thumb-down-outline
+          name: Esta página podia ser melhorada
+          data: 0
+          note: >- 
+            Obrigado pelo teu feedback!

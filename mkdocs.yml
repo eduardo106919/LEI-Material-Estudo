@@ -14,20 +14,10 @@ theme:
 nav:
   - Início: index.md
 
+extra_javascript:
+  - assets/js/hide-feedback.js
+
 extra:
   analytics: 
     provider: google
     property: G-M15LQD5QPZ
-    feedback:
-      title: Achas-te a página útil?
-      ratings:
-        - icon: material/thumb-up-outline
-          name: Esta página foi útil
-          data: 1
-          note: >-
-            Obrigado pelo teu feedback!
-        - icon: material/thumb-down-outline
-          name: Esta página podia ser melhorada
-          data: 0
-          note: >- 
-            Obrigado pelo teu feedback!

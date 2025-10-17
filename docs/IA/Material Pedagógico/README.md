@@ -34,3 +34,21 @@ Estratégias de Procura <br>
 Busca gananciosa <br>
 Procura A* <br>
 Funções Heurísticas <br>
+
+## [Procura em Contextos Competitivos](3_Procura%20em%20Contextos%20Competitivos.pdf)
+Agentes e o Ambiente <br>
+Ambiente Acessível vs Não Acessível <br>
+Ambiente Determinístico vs Não Determinístico <br>
+Ambiente Estático vs Dinâmico <br>
+Ambiente Discreto vs Contínuo <br>
+Ambiente Episódico vs Não Episódico <br>
+O Agente como uma Interface <br>
+Jogos como um Problema de Procura <br>
+Sistemas com Vários Agentes <br>
+Teoria do Jogo <br>
+Jogos vs Procura Singular <br>
+Minimax <br>
+Alpha-beta Pruning <br>
+Procura na Árvore Monte Carlo <br>
+Jogos Determinísticos <br>
+Jogos Diferenciais Estocásticos <br>

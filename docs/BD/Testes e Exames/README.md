@@ -6,6 +6,10 @@ Para além disto, no ano letivo 2021/2022 era usado o MongoDB, daí no teste e n
 
 ## Enunciados
 
+### Testes Modelo
+
+* [Teste Modelo 2025/2026 LEI](teste_modelo_2025_2026_LEI.pdf)
+
 ### Testes
 
 * [2009/2010 LCC](teste_2009_2010_LCC.pdf)

@@ -94,7 +94,7 @@ Web Frameworks: Architectures <br>
 
 ## [Web Components](9_1_WebComponents.pdf)
 Components na Web <br>
-Web Components (Recursos, Adopção, Design Systems, Tecnologia, Custom Elements,Shadow DOM, CSS Selectors, HTML Templates, Tradeoffs) <br>
+Web Components <br>
 Exemplos <br>
 Ciclo de vida de um Custom Element <br>
 

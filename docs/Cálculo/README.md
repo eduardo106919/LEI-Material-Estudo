@@ -14,7 +14,5 @@ Conjunto de fichas e resoluções de alguns exercícios das fichas de exercício
 
 ## 🎥 Vídeos de Apoio
 
-### Playlist de Integração
-[The Organic Chemistry Tutor – Calculus: Integration](https://www.youtube.com/watch?v=2N6A4ed8s58&list=PLMTzvmPYQsNRpsxc4g-qe_Samlxg3v5RX)
-
+### [Playlist de Integração](https://www.youtube.com/watch?v=2N6A4ed8s58&list=PLMTzvmPYQsNRpsxc4g-qe_Samlxg3v5RX)
 Esta playlist contém vários vídeos introdutórios sobre integração, ideais para quem está a começar a estudar o tema.
